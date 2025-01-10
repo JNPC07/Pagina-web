@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif,  sans-serif; /* Familia de fuentes */
+    font-size: 16px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #a2dca8; /* El color del fondo de la página web */
+    color: #333333; /* El color del texto*/ 
+}
+h1 {
+    color: #197719; /* El color de la cabecera */
+    font-size: 32px; /* El tamaño de la fuente de la cabecera */
+    font-family: Brodway, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
