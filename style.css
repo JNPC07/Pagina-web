@@ -3,11 +3,14 @@ body {
     font-size: 16px; /* El tamaño de la fuente principal en el tag <p></p> */
     background-color: #a2dca8; /* El color del fondo de la página web */
     color: #333333; /* El color del texto*/ 
+    border: 2cm;
 }
 h1 {
     color: #197719; /* El color de la cabecera */
-    font-size: 32px; /* El tamaño de la fuente de la cabecera */
+    font-size: 40px; /* El tamaño de la fuente de la cabecera */
+    text-align: center;
     font-family: Brodway, serif; /* La familia tipográfica utilizada en la cabecera */
+    margin: 0 auto;
 }
 img {
     width: 500px;
